@@ -1,8 +1,9 @@
 /*  
  *  DDS AD9850 Controller for Raspberry Pi
  *
- *  Copyright (C) 2009 EverPi - everpi[at]tsar[dot]in
- *  
+ *  Copyright (C) 2014 EverPi - everpi[at]tsar[dot]in
+ *  blog.everpi.net 
+ * 
  *  This file is part of dds_ad9850.
  *
  *  dds_ad9850 is free software: you can redistribute it and/or modify
